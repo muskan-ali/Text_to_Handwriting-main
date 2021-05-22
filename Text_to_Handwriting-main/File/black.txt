@@ -1,0 +1,15 @@
+Name :-   Muskan Ali                       
+Department :-   IT[3rd year]                
+Roll no :-   18700218022                   
+Subject :-   Distributed System              
+
+
+Q1> Why distributed system is prioritized in IT industry? How it is different from centralized system?
+					
+Ans-distributed system  makes easy for users (and applications) to access and share remote resources. Resources can be virtually anything, but typical examples include peripherals, storage facilities, data, files, services, and networks, to name just a few. There are many reasons for wanting to share resources. One obvious reason is that of economics. For example, it is cheaper to have a single high-end reliable storage facility be shared then having to buy and maintain storage for each user separately.
+								
+A distributed system is similar to a decentralized one in that it doesn’t have a single central owner. But going a step further, it eliminates centralization. In a distributed system, users have equal access to data, though user privileges can be enabled when needed, it is the internet itself.
+The distributed system enables users to share ownership of the data. Hardware and software resources are also allocated between users, which in some cases may improve the performance of the system. A distributed system is safe from the independent failure of components, which can improve its uptime considerably.
+Distributed systems have evolved as a result of the limitations of the other systems. With increasing security, data storage, and privacy concerns, and the constant need for improving performance, distributed systems are the natural choice for many organizations.
+Its no surprise then that technologies using the distributed system – most notably the blockchain – are changing many industries.							                
+
