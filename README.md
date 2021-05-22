@@ -1,4 +1,4 @@
-# Text_to_Handwriting-main
+# Text_to_Handwriting
 
 #### Created and Tested on Windows 10 with Python 3.8
 
